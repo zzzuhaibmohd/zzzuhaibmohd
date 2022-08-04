@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zzzuhaibmohd
 - 👀 I’m interested in Blockchain and web3 revolution
-- 🌱 I’m currently learning how to code in Soldity and 
+- 🌱 I’m currently learning how to code in Solidity
 - 📫 Linkedin | https://www.linkedin.com/in/zuhaib44/
 - 📝 Medium | http://zuhaibmd.medium.com/
 - 🐦 Twitter | https://twitter.com/zuhaib44
