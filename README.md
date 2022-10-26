@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **mdzuhaib444@gmail.com**
 
-- 📄 Know about my experiences [post link](post link)
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -19,5 +17,3 @@
 <a href="https://linkedin.com/in/zuhaib44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zuhaib44" height="30" width="40" /></a>
 <a href="https://medium.com/@zuhaibmd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zuhaibmd" height="30" width="40" /></a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zzzuhaibmohd&show_icons=true&locale=en" alt="zzzuhaibmohd" /></p>
