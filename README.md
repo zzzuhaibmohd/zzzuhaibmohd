@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
+I hold a graduate degree in Computer Science. My past experiences include me working as a Software developer for 4+ years and web2 security engineer for almost 2+ years.
+
+
+🔭 I’m currently working as Smart Contract Auditor with several auditing firms on a contractual basis and looking for full-time opportunities.
 
 
 ## 🌐 Socials:
