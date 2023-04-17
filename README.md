@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Zuhaib Mohammed (zuhaibmd.eth/zuhaib.lens)</h1>
-<h3 align="center">A Blockchain enthusiast looking to work in the field of web3 as a smart contract developer/auditor, to serve and secure the web3 ecosystem. 
-  I am eJPT and CEH certified and have experience in Software Development, Cyber Security & Automation.</h3>
+# 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
-<p align="left"> <a href="https://twitter.com/zuhaib44" target="blank"><img src="https://img.shields.io/twitter/follow/zuhaib44?logo=twitter&style=for-the-badge" alt="zuhaib44" /></a> </p>
 
-- 📫 How to reach me **mdzuhaib444@gmail.com**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//in/zuhaib44/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@zuhaibmd) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/zuhaib44) 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/zuhaib44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zuhaib44" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zuhaib44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zuhaib44" height="30" width="40" /></a>
-<a href="https://medium.com/@zuhaibmd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zuhaibmd" height="30" width="40" /></a>
-</p>
+# 💻 Tech Stack:
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zzzuhaibmohd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
