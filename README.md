@@ -4,7 +4,7 @@ I hold a Bachelor’s Degree in Computer Science and Engineering, which serves a
 
 Presently, I am a Smart Contract Auditor with renowned firms, including Secure3, AuditOne, and Chainrisk. I also actively participate in auditing contests hosted on platforms like Code4rena and CodeHawks. These experiences have provided me with valuable insights into blockchain security and have nurtured my commitment to ensuring the integrity of decentralized systems.
 
-I have audited a diverse range of contracts, including those related to ERC20, ERC721, ERC1155, Web3 Gaming, Perpetual DEXes, Launchpads, Staking Contracts, Cross-Chain bridges, and more.
+I have audited a diverse range of contracts, including those related to ERC20, ERC721, ERC1155, ERC4626, Web3 Gaming, Perpetual DEXes, Launchpads, Staking Contracts, Cross-Chain bridges, and more.
 
 
 ## 🌐 Socials:
