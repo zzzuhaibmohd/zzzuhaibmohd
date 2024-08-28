@@ -1,10 +1,8 @@
 # 💫 About Me:
 
-I hold a Bachelor’s Degree in Computer Science and Engineering, which serves as the foundation of my career. With nearly four years of experience as a Software Developer, primarily focusing on Backend development, I transitioned into a role as a web2 Security Engineer for two years. I hold certifications as a Certified Ethical Hacker (CEHv10) and eLearnSecurity Junior Penetration Tester (eJPT).
+An Independent Smart Contract Developer/Auditor with a portfolio of 50+ codebases. Expertise in ERC20, ERC721, ERC1155, ERC4626, Web3 Gaming, Perpetual DEXes, AMMs, DAOs, Launchpads, Lending/Borrowing, Staking Contracts, Cross-Chain Bridges, and Liquid Staking Platforms.
 
-Currently working as an Independent Smart Contract Developer/Auditor, My portfolio currently covers over
-40+ diverse codebases. I have expertise in developing and auditing various protocols, including ERC20, ERC721, ERC1155, ERC4626, Web3
-Gaming, Perpetual DEXes, Launchpads, Staking Contracts, Cross-Chain bridges, Liquid Staking Platforms, and more.
+My journey began with a Bachelor’s Degree in Computer Science and Engineering, which laid the foundation for my career. I accumulated nearly four years of experience as a Software Developer, primarily focusing on Backend development, before transitioning into a role as a Web2 Security Engineer for two years. I am also a Certifi ed Ethical Hacker (CEHv10) and an eLearnSecurity Junior Penetration Tester (eJPT).
 
 I am currently exploring Rust Development and Auditing.
 
