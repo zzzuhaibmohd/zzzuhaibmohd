@@ -2,9 +2,7 @@
 
 An Independent Smart Contract Developer/Auditor with a portfolio of 50+ codebases. Expertise in ERC20, ERC721, ERC1155, ERC4626, Web3 Gaming, Perpetual DEXes, AMMs, DAOs, Launchpads, Lending/Borrowing, Staking Contracts, Cross-Chain Bridges, and Liquid Staking Platforms.
 
-My journey began with a Bachelor’s Degree in Computer Science and Engineering, which laid the foundation for my career. I accumulated nearly four years of experience as a Software Developer, primarily focusing on Backend development, before transitioning into a role as a Web2 Security Engineer for two years. I am also a Certifi ed Ethical Hacker (CEHv10) and an eLearnSecurity Junior Penetration Tester (eJPT).
-
-I am currently exploring Rust Development and Auditing.
+My journey began into the world of Information Technology with a Bachelor’s Degree in Computer Science and Engineering, which laid the foundation for my career. I accumulated nearly four years of experience as a Software Developer, primarily focusing on Backend development, before transitioning into a role as a Web2 Security Engineer for two years. I am also a Certified Ethical Hacker (CEHv10) and an eLearnSecurity Junior Penetration Tester (eJPT).
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zuhaib44/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@zuhaibmd) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/zuhaib44) 
