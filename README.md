@@ -38,13 +38,21 @@ Through my blogs, I document real-world vulnerabilities, exploit patterns, proto
 ---
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" height="60" />
+
+  <!-- Smart Contract Layer -->
+  <img src="https://skillicons.dev/icons?i=solidity" height="60" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=rust" height="60" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/IPFS-Dark.svg" height="60" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" />
+  <br><br>
+
 </div>
 
 ---
