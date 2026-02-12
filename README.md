@@ -21,6 +21,22 @@ Operating across <strong>Ethereum and Solana ecosystems</strong>, I design, secu
 
 ---
 
+## ✍️ Security Research & Technical Writing
+
+I genuinely enjoy writing code, breaking down complex systems, and explaining them in a way that helps other engineers level up.
+
+Through my blogs, I document real-world vulnerabilities, exploit patterns, protocol design principles, and structured learning strategies across EVM and Solana ecosystems.
+
+👉 https://medium.com/@zuhaibmd
+
+## 🚧 Current Focus
+
+• Solana Program Development and Auditing
+
+• Agentic AI (x402, ERC-8004) 
+
+---
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" height="60" />
   <img width="12" />
@@ -30,23 +46,6 @@ Operating across <strong>Ethereum and Solana ecosystems</strong>, I design, secu
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" />
 </div>
-
----
-
-## ✍️ Security Research & Technical Writing
-
-I genuinely enjoy writing code, breaking down complex systems, and explaining them in a way that helps other engineers level up.
-
-Through my blogs, I document real-world vulnerabilities, exploit patterns, protocol design principles, and structured learning strategies across EVM and Solana ecosystems.
-
-👉 https://medium.com/@zuhaibmd
-
-
-## 🚧 Current Focus
-
-• Advanced Solana Program Development and Auditing
-
-• Agentic AI (x402, ERC-8004) 
 
 ---
 
@@ -69,8 +68,6 @@ Through my blogs, I document real-world vulnerabilities, exploit patterns, proto
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
-
-
 
 ---
 
