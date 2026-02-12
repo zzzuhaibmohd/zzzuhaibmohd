@@ -1,49 +1,76 @@
-# 💫 **About Me**
-
-I'm an **Independent Smart Contract Developer & Security Auditor** with a portfolio of **60+ production-grade codebases**. My expertise spans across a broad range of protocols — from **ERC20s and NFTs** to **DeFi, DAOs, Cross-Chain Bridges, and Liquid Staking Platforms**.
-
-I hold a **Bachelor’s Degree in Computer Science and Engineering**, which set the foundation for my career in technology. Over the years, I’ve:
-
-* 🧩 Spent **4 years as a Backend Software Developer**, mastering system design and code optimization.
-* 🛡️ Transitioned into **Web2 Security Engineering**, focusing on application hardening, exploit analysis, and vulnerability management.
-* 🎓 Earned certifications as a **Certified Ethical Hacker (CEHv10)** and **eLearnSecurity Junior Penetration Tester (eJPT)**.
-* 🧱 Advanced into **Smart Contract Development and Auditing**, leveraging deep expertise in Solidity.
-
-Today, I combine that **engineering discipline and security-first mindset** to design, build, and audit **secure-by-design smart contracts** in the **Web3 ecosystem**.
+<h1 align="center">Zuhaib Mohammed</h1>
+<h3 align="center">Smart Contract Engineer • Security Researcher • EVM & Solana</h3>
 
 ---
+<p align="left">
 
-## 🌐 **Connect With Me**
+🔥 <strong>Independent Smart Contract Engineer & Security Researcher</strong> 🔥<br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/zuhaib44/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium\&logoColor=white)](https://medium.com/@zuhaibmd)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter\&logoColor=white)](https://twitter.com/zuhaib44)
+Operating across <strong>Ethereum and Solana ecosystems</strong>, I design, secure, and audit mission-critical smart contract systems before deployment.<br><br>
+
+<strong>60+ production-grade protocols reviewed and built</strong> across:<br>
+
+• DeFi primitives & complex architectures<br>
+• Liquid Staking systems<br>
+• DAOs & governance frameworks<br>
+• Cross-chain infrastructure<br>
+• Token standards & custom economic models<br><br>
+
+🧠 Backend Systems Engineering + 🛡️ Offensive Security background.<br><br>
+</p>
 
 ---
-
-## 💻 **Tech Stack**
-
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge\&logo=solidity\&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge\&logo=rust\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-
-
-## 📊 GitHub Analytics
 
 <div align="center">
-  
-![Zuhaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zzzuhaibmohd&show_icons=true&theme=radical&hide_border=true)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zzzuhaibmohd&layout=compact&theme=radical&hide_border=true)  
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## ✍️ Security Research & Technical Writing
+
+I genuinely enjoy writing code, breaking down complex systems, and explaining them in a way that helps other engineers level up.
+
+Through my blogs, I document real-world vulnerabilities, exploit patterns, protocol design principles, and structured learning strategies across EVM and Solana ecosystems.
+
+👉 https://medium.com/@zuhaibmd
+
+
+## 🚧 Current Focus
+
+• Advanced Solana Program Development and Auditing
+
+• Agentic AI (x402, ERC-8004) 
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=zzzuhaibmohd&theme=onedark&no-frame=true&row=1&column=7)
-
+  <a href="https://www.linkedin.com/in/zuhaib44/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://x.com/zuhaib44">
+    <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://medium.com/@zuhaibmd">
+    <img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://linktr.ee/zuhaib44">
+    <img src="https://img.shields.io/badge/Portfolio-181717?logo=github&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://t.me/@mdzuhaib44">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" height="25" />
+  </a>
 </div>
+
+
+
+---
+
